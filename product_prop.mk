@@ -23,3 +23,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     persist.dbg.vt_avail_ovr=1 \
     persist.dbg.wfc_avail_ovr=1 \
     persist.sys.fflag.override.settings_network_and_internet_v2=true
+
+# Display
+PRODUCT_PROPERTY_OVERRIDES += \
+    debug.sf.enable_hwc_vds=1

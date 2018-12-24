@@ -137,3 +137,9 @@ PRODUCT_BOOT_JARS += \
 
 PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 
+# WiFi Display
+PRODUCT_PACKAGES += \
+    libnl
+
+PRODUCT_BOOT_JARS += \
+    WfdCommon
