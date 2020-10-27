@@ -1,10 +1,22 @@
 [
   {
-    "repository": "kernel_xiaomi_phoenix",
-    "target_path": "kernel/xiaomi/phoenix"
+    "repository": "stormbreaker-project/kernel_xiaomi_phoenix",
+    "target_path": "kernel/xiaomi/phoenix",
+    "branch": "ten"
   },
   {
-    "repository": "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi"
+    "repository":"zoldycc/vendor_xiaomi_phoenix",
+    "target_path": "vendor/xiaomi/phoenix",
+    "branch": "master"
+  },
+  {
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master"
+  },
+  {
+    "repository": "zoldycc/android_vendor_aeonax_ANXCamera",
+    "target_path": "vendor/aeonax/ANXCamera",
+    "branch": "master"
   }
 ]
