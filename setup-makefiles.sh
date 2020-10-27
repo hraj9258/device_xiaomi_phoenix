@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) 2020 The DUOS Project
+# Copyright (C) 2020 The CORVUS OS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
