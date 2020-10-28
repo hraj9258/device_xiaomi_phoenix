@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_phoenix.mk
+    $(LOCAL_DIR)/ancient_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    du_phoenix-user \
-    du_phoenix-userdebug \
-    du_phoenix-eng
+    ancient_phoenix-user \
+    ancient_phoenix-userdebug \
+    ancient_phoenix-eng
